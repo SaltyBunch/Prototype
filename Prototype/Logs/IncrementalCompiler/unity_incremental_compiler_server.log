@@ -1,0 +1,77 @@
+ (0,0): [10/05/2018 07:29:16.499 PM] Unity incremental compiler server
+ (0,0): [10/05/2018 07:29:16.747 PM] watchdog active on pid: 8440
+ (0,0): [10/05/2018 07:29:19.028 PM] Unity.TextMeshPro.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:19.042 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/05/2018 07:29:19.065 PM] UnityEditor.StandardEvents.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:19.077 PM] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [10/05/2018 07:29:19.088 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:19.100 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:20.920 PM] UnityEditor.StandardEvents.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [10/05/2018 07:29:20.921 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/05/2018 07:29:20.922 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/05/2018 07:29:21.049 PM] UnityEditor.StandardEvents.dll compilation finished in 1972ms  source files re-parsed: 1 metadata reloaded: 198
+ (0,0): [10/05/2018 07:29:21.049 PM] Unity.TextMeshPro.dll compilation finished in 2006ms  source files re-parsed: 45 metadata reloaded: 194
+ (0,0): [10/05/2018 07:29:21.049 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1949ms  source files re-parsed: 44 metadata reloaded: 197
+ (0,0): [10/05/2018 07:29:21.060 PM] Unity.TextMeshPro.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:21.060 PM] UnityEditor.StandardEvents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:21.061 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:21.455 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:21.468 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:21.712 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/05/2018 07:29:21.774 PM] Unity.TextMeshPro.Editor.dll compilation finished in 307ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/05/2018 07:29:21.787 PM] Unity.TextMeshPro.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:23.538 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:23.550 PM] Assembly-CSharp.dll compiling...
+ (0,0): [10/05/2018 07:29:23.581 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Assembly-CSharp.dll
+ (0,0): [10/05/2018 07:29:23.618 PM] Assembly-CSharp.dll compilation finished in 68ms  source files re-parsed: 2 metadata reloaded: 3
+ (0,0): [10/05/2018 07:29:23.630 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:27.819 PM] Unity.TextMeshPro.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:27.831 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/05/2018 07:29:27.893 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:27.905 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:28.081 PM] UnityEditor.StandardEvents.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:28.127 PM] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [10/05/2018 07:29:28.183 PM] UnityEditor.StandardEvents.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [10/05/2018 07:29:28.230 PM] UnityEditor.StandardEvents.dll compilation finished in 102ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:28.242 PM] UnityEditor.StandardEvents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:28.287 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/05/2018 07:29:28.357 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 452ms  source files re-parsed: 44 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:28.362 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/05/2018 07:29:28.368 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:28.442 PM] Unity.TextMeshPro.dll compilation finished in 611ms  source files re-parsed: 45 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:28.454 PM] Unity.TextMeshPro.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:28.931 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:28.942 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:29.137 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/05/2018 07:29:29.197 PM] Unity.TextMeshPro.Editor.dll compilation finished in 255ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10/05/2018 07:29:29.209 PM] Unity.TextMeshPro.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:29.643 PM] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:29.655 PM] Assembly-CSharp.dll compiling...
+ (0,0): [10/05/2018 07:29:29.734 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Assembly-CSharp.dll
+ (0,0): [10/05/2018 07:29:29.777 PM] Assembly-CSharp.dll compilation finished in 122ms  source files re-parsed: 2 metadata reloaded: 3
+ (0,0): [10/05/2018 07:29:29.789 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.480 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10/05/2018 07:29:44.648 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:44.709 PM] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [10/05/2018 07:29:44.752 PM] UnityEditor.StandardEvents.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [10/05/2018 07:29:44.802 PM] UnityEditor.StandardEvents.dll compilation finished in 92ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:44.808 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10/05/2018 07:29:44.814 PM] UnityEditor.StandardEvents.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.825 PM] UnityEditor.StandardEvents.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.836 PM] Unity.TextMeshPro.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.dll
+ (0,0): [10/05/2018 07:29:44.861 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 212ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:44.872 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.883 PM] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.917 PM] Unity.TextMeshPro.dll compilation finished in 436ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10/05/2018 07:29:44.929 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:44.942 PM] Unity.TextMeshPro.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:45.446 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10/05/2018 07:29:45.615 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10/05/2018 07:29:45.676 PM] Unity.TextMeshPro.Editor.dll compilation finished in 230ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10/05/2018 07:29:45.688 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:45.699 PM] Unity.TextMeshPro.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
+ (0,0): [10/05/2018 07:29:45.991 PM] Assembly-CSharp.dll compiling...
+ (0,0): [10/05/2018 07:29:46.069 PM] Assembly-CSharp.dll: emitting IL to : C:\Users\Administrator\Prototype\Prototype\Temp\Assembly-CSharp.dll
+ (0,0): [10/05/2018 07:29:46.104 PM] Assembly-CSharp.dll compilation finished in 113ms  source files re-parsed: 0 metadata reloaded: 3
+ (0,0): [10/05/2018 07:29:46.116 PM] Assembly-CSharp.dll: compilation was cached, 0 file(s) were found to have changed. Caller PID: 8440
+ (0,0): [10/05/2018 07:29:46.128 PM] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 8440
